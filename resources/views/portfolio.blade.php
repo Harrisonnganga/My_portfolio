@@ -56,11 +56,11 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 brand manipul creative">
                         <div class="h_gallery_item">
                             <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/portfolio.png" alt="">
+                                <img class="img-fluid" src="img/gallery/fashion.jpg" alt="">
                                 <a class="light" ><img src="img/gallery/icon.png" alt=""></a>
                             </div>
                             <div class="g_item_text">
-                                <h4><a href="https://github.com/supershivam13/zero-to-mastery-website">Zero to Mastery</a></h4>
+                                <h4><a href="#">Clothes recommendation</a></h4>
                                 <p>Web Project</p>
                             </div>
                         </div>
@@ -68,12 +68,12 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 manipul creative design print">
                         <div class="h_gallery_item">
                             <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/project-3.png" alt="">
+                                <img class="img-fluid" src="img/gallery/Design.jpg" alt="">
                                 <a class="light" ><img src="img/gallery/icon.png" alt=""></a>
                             </div>
                             <div class="g_item_text">
-                                <h4><a href="https://github.com/supershivam13/simplefolio">Simplefolio</a></h4>
-                                <p>Portfolio Project</p>
+                                <h4><a href="#">Modern Interior Design</a></h4>
+                                <p>Interior Design</p>
                             </div>
                         </div>
                     </div>

@@ -19,7 +19,7 @@
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages</a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a class="nav-link" href="{{url('/portfolio')}}">Portfolio</a></li>
-                                <li class="nav-item"><a class="nav-link" href="{{url('/elements')}}">Elements</a></li>
+                                <!-- <li class="nav-item"><a class="nav-link" href="{{url('/elements')}}">Elements</a></li> -->
                             </ul>
                         </li>
                         <!-- <li class="nav-item submenu dropdown">

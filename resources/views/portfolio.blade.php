@@ -56,7 +56,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 brand manipul creative">
                         <div class="h_gallery_item">
                             <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/fashion.jpg" alt="">
+                                <img class="img-fluid" src="img/gallery/fashion finder.jpg" alt="">
                                 <a class="light" ><img src="img/gallery/icon.png" alt=""></a>
                             </div>
                             <div class="g_item_text">
@@ -68,7 +68,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 manipul creative design print">
                         <div class="h_gallery_item">
                             <div class="g_img_item">
-                                <img class="img-fluid" src="img/gallery/Design.jpg" alt="">
+                                <img class="img-fluid" src="img/gallery/modern design.jpg" alt="">
                                 <a class="light" ><img src="img/gallery/icon.png" alt=""></a>
                             </div>
                             <div class="g_item_text">
@@ -85,7 +85,7 @@
 
             <div style="padding: 50px;" style="text-align: center;"><h2 style="text-align: center;">
                         <center>See more on my GitHub</center></h2>
-                     <center><a href="https://github.com/supershivam13" class="genric-btn info circle">My GitHub Handle</a></center></div>
+                     <center><a href="https://harrisonnganga.github.io/Portfolio/" class="genric-btn info circle">My GitHub Handle</a></center></div>
         		</div>
         		<div class="more_btn">
         			<a href="{{url('/contact')}}" class="main_btn">Start Talking</a>
@@ -95,7 +95,7 @@
         <!--================End Home Gallery Area =================-->
         
         <!--================Footer Area =================-->
-        @includes('layouts.footer')
+        @include('layouts.footer')
         <!--================End Footer Area =================-->
         
         

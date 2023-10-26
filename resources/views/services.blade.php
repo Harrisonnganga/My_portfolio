@@ -126,7 +126,8 @@
         <!--================End Testimonials Area =================-->
         
         <!--================Footer Area =================-->
-		@includes('layouts.footer')
+        @include('layouts.footer')
+
         <!--================End Footer Area =================-->
         
         

@@ -257,45 +257,45 @@
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6 brand manipul creative">
-				<div class="h_gallery_item">
-					<div class="g_img_item">
-						<img class="img-fluid" src="img/gallery/project-2.png" alt="">
-						<a class="light"><img src="img/gallery/icon.png" alt=""></a>
-					</div>
-					<div class="g_item_text">
-						<h4><a href="https://github.com/supershivam13/zero-to-mastery-website">Zero to Mastery</a></h4>
-						<p>Web Project</p>
+                        <div class="h_gallery_item">
+                            <div class="g_img_item">
+                                <img class="img-fluid" src="img/gallery/fashion finder.jpg" alt="">
+                                <a class="light" ><img src="img/gallery/icon.png" alt=""></a>
+                            </div>
+                            <div class="g_item_text">
+                                <h4><a href="#">Clothes recommendation</a></h4>
+                                <p>Web Project</p>
+                            </div>
+                        </div>
+                    </div>
+				<div class="col-lg-4 col-md-4 col-sm-6 manipul creative design print">
+					<div class="h_gallery_item">
+						<div class="g_img_item">
+							<img class="img-fluid" src="img/gallery/modern design.jpg" alt="">
+							<a class="light"><img src="img/gallery/icon.png" alt=""></a>
+						</div>
+						<div class="g_item_text">
+							<h4><a href="#">Modern Interior Design</a></h4>
+							<p>Interior Design</p>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-6 manipul creative design print">
-				<div class="h_gallery_item">
-					<div class="g_img_item">
-						<img class="img-fluid" src="img/gallery/project-3.png" alt="">
-						<a class="light"><img src="img/gallery/icon.png" alt=""></a>
-					</div>
-					<div class="g_item_text">
-						<h4><a href="https://github.com/supershivam13/simplefolio">Simplefolio</a></h4>
-						<p>Portfolio Project</p>
-					</div>
-				</div>
+
 			</div>
 
+			<div style="padding: 50px;" style="text-align: center;">
+				<h2 style="text-align: center;">
+					<center>See more on my GitHub</center>
+				</h2>
+				<center><a href="#" class="genric-btn info circle">My GitHub Handle</a></center>
+			</div>
+
+
+
+			<div class="more_btn">
+				<a href="{{url('/contact')}}" class="main_btn" href="#">Start Talking</a>
+			</div>
 		</div>
-
-		<div style="padding: 50px;" style="text-align: center;">
-			<h2 style="text-align: center;">
-				<center>See more on my GitHub</center>
-			</h2>
-			<center><a href="https://github.com/supershivam13" class="genric-btn info circle">My GitHub Handle</a></center>
-		</div>
-
-
-
-		<div class="more_btn">
-			<a href="{{url('/contact')}}" class="main_btn" href="#">Start Talking</a>
-		</div>
-	</div>
 </section>
 <!--================End Home Gallery Area =================-->
 

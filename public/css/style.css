@@ -2406,9 +2406,9 @@ h6 {
   cursor: pointer;
   transition: all 300ms linear 0s; }
   .white_bg_btn:hover {
-    background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-    background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-    background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
+    background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+    background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+    background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #000 100%);
     color: #fff;
     border: none; }
 
@@ -2503,18 +2503,18 @@ h6 {
         border-radius: 5px;
         vertical-align: middle;
         align-self: center;
-        background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-        background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-        background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%); }
+        background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+        background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+        background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #000 100%); }
 
 /* End Welcome Area css
 ============================================================================================ */
 /* My Tabs Area css
 ============================================================================================ */
 .mytabs_area {
-  background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%); }
+  background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+  background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+  background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #000 100%); }
 
 .tabs_inner .nav.nav-tabs {
   display: block;
@@ -2721,9 +2721,9 @@ h6 {
       color: #fff;
       font-size: 16px; }
     .personal_text .personal_social li:hover a {
-      background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-      background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-      background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%); }
+      background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+      background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+      background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #000 100%); }
 
 /* End Personal Profile Area css
 ============================================================================================ */
@@ -2767,9 +2767,9 @@ h6 {
       height: 100%;
       left: 0px;
       top: 0px;
-      background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-      background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-      background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
+      background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+      background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+      background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #000 100%);
       position: absolute;
       opacity: 0;
       transition: all 300ms ease; }
@@ -2924,9 +2924,9 @@ h6 {
       color: #cccccc; }
   .news_widget .input-group .sub-btn {
     border-radius: 0px;
-    background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-    background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
-    background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #88f3ff 100%);
+    background-image: -moz-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+    background-image: -webkit-linear-gradient(0deg, #16e0bd 0%, #000 100%);
+    background-image: -ms-linear-gradient(0deg, #16e0bd 0%, #000 100%);
     outline: none !important;
     box-shadow: none !important;
     padding: 0px;

@@ -144,7 +144,7 @@
 					content: "";
 					height: 100%;
 					width: 5px;
-					background: rgba(255, 255, 255, .20);
+					background:#16e0bd;
 					position: absolute;
 					left: 46%;
 					transform: translateX(-50%);
@@ -167,7 +167,7 @@
 							content: '';
 							height: 7px;
 							width: 7px;
-							background: #fff;
+							background: rgb(0,100,100) 0%;
 							border-radius: 50%;
 							position: absolute;
 							left: 52%;
@@ -182,7 +182,7 @@
 						.d-flex{
 							padding-right: 100px;
 							p{
-								color: rgba(255, 255, 255, .75);
+								color: rgba(28, 29, 29, 0.656);
 								margin-bottom: 0px;
 								padding-top: 20px;
 							}
@@ -217,7 +217,7 @@
 		.feature_item{
 			background: #f9f9ff;
 			&:hover{
-				background: #fff;
+				background: #16e0bd;
 			}
 		}
 	}
@@ -226,7 +226,7 @@
 		.feature_item{
 			background: #f9f9ff;
 			&:hover{
-				background: #fff;
+				background: #18b69c;
 			}
 		}
 	}

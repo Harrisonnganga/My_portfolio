@@ -25,7 +25,7 @@
         
         
         <!--================Home Banner Area =================-->
-        <section class="profile_area">
+        <!-- <section class="profile_area">
         <section class="home_banner_area">
            	<div class="container box_1620">
            		<div class="banner_inner d-flex align-items-center">
@@ -58,7 +58,7 @@
 					</div>
 				</div>
             </div>
-        </section>
+        </section> -->
         <!--================End Home Banner Area =================-->
         
         <!--================Welcome Area =================-->

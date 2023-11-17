@@ -43,7 +43,7 @@
 <!--================End Home Banner Area =================-->
 
 <!--================Welcome Area =================-->
-<section class="welcome_area p_120">
+<!-- <section class="welcome_area p_120">
 	<div class="container">
 		<div class="row welcome_inner">
 			<div class="col-lg-6">
@@ -127,7 +127,7 @@
 <!--================End Welcome Area =================-->
 
 <!--================My Tabs Area =================-->
-<section class="mytabs_area p_120">
+<!-- <section class="mytabs_area p_120">
 	<div class="container">
 		<div class="tabs_inner">
 			<ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -182,11 +182,11 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section>-->
 <!--================End My Tabs Area =================-->
 
 <!--================Feature Area =================-->
-<section class="feature_area p_120">
+<!-- <section class="feature_area p_120">
 	<div class="container">
 		<div class="main_title">
 			<h2>my skills</h2>
@@ -200,14 +200,14 @@
 					<p>A Front-end Web Developer using HTML, CSS, JavaScript, Bootstrap and PHP !!</p>
 				</div>
 			</div>
-			<!-- <div class="col-lg-4 col-md-6">
+			 <div class="col-lg-4 col-md-6">
 				<div class="feature_item">
 					<i class="flaticon-skyline"></i>
 					<h4>Web Designer</h4>
 					<p>A Webpage is incomplete without Designs/Animations as a bird is incomplete without its wings. </p>
 				</div>
 			</div> -->
-			<div class="col-lg-4 col-md-6">
+<!-- <div class="col-lg-4 col-md-6">
 				<div class="feature_item">
 					<i class="flaticon-skyline"></i>
 					<h4>Open Source Developer</h4>
@@ -230,11 +230,11 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--================End Feature Area =================-->
 
 <!--================Home Gallery Area =================-->
-<section class="home_gallery_area p_120">
+<!-- <section class="home_gallery_area p_120">
 	<div class="container">
 		<div class="main_title">
 			<h2>My Projects</h2>
@@ -296,54 +296,24 @@
 				<a href="{{url('/contact')}}" class="main_btn" href="#">Start Talking</a>
 			</div>
 		</div>
-</section>
+</section> -->
 <!--================End Home Gallery Area =================-->
 
 <!--================Testimonials Area =================-->
-<section class="testimonials_area p_120">
-	<div class="container">
-		<div class="main_title">
-			<h2>Favourites</h2>
-			<p>Successful peoples always had a different vision from the rest to the world. They always provide us with a quick and timely burst of wisdom to get our focus back, offering the inspiration needed for the dream or successs.</p>
-		</div>
-		<div class="testi_inner">
-			<div class="testi_slider owl-carousel">
-				<div class="item">
-					<div class="testi_item">
-						<p>“One of the only ways to get out of a tight box is to invent your way out..”</p>
-						<h4>Jeff Bezos</h4>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star-half-o"></i></a>
-					</div>
-				</div>
-				<div class="item">
-					<div class="testi_item">
-						<p>Wear your failure as a badge of honor.</p>
-						<h4>Sundar Pichai</h4>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star-half-o"></i></a>
-					</div>
-				</div>
-				<div class="item">
-					<div class="testi_item">
-						<p>I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.</p>
-						<h4>Bill Gates</h4>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-						<a href="#"><i class="fa fa-star"></i></a>
-					</div>
-				</div>
+<!-- CTA Section -->
+<section id="cta-section" class="cta">
+	<div style="padding: 50px;" style="text-align: center;">
+		<div class="cta-content">
+			<h2>Your Success Begins Here</h2>
+			<p>Unlock the potential of your dreams with our innovative solutions. Explore my portfolio or contact me for personalised services.</p>
+			<div class="more_btn">
+				<a href="{{url('/contact')}}" class="main_btn">Start Talking</a>
 			</div>
 		</div>
+	</div>
 </section>
+
+
 <!--================End Testimonials Area =================-->
 
 <!--================Footer Area =================-->

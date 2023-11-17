@@ -27,13 +27,13 @@
         <section class="contact_area p_120">
             <div class="container">
                 <!-- <div id="mapBox" class="mapBox" 
-                    data-lat="25.3207461" 
-                    data-lon="82.9210684" 
+                    data-lat="**[3.125300]**" 
+                    data-lon="**[35.600020]**" 
                     data-zoom="13" 
-                    data-info="Varanasi , Uttar Pradesh , India"
+                    data-info="**[Loropio]**"
                     data-mlat="40.701083"
-                    data-mlon="-74.1522848"> -->
-                </div>
+                    data-mlon="-74.1522848">
+                </div> -->
                 <div class="row">
                     <div class="col-lg-3">
                         <div class="contact_info">

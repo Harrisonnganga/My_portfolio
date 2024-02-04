@@ -1,4 +1,11 @@
 @include('layouts.head')
+<style>
+    .h_gallery_item .g_img_item img {
+        height: 300px; /* Adjust the height as needed */
+        object-fit: cover; /* Maintain aspect ratio and cover the container */
+    }
+</style>
+
 
 <body>
 
@@ -46,11 +53,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 brand manipul design print">
                     <div class="h_gallery_item">
                         <div class="g_img_item">
-                            <img class="img-fluid" src="img/portfolio.png" alt="">
+                            <img class="img-fluid" src="img/harri.jpg" alt="">
                             <a class="light alt="></a>
                         </div>
                         <div class="g_item_text">
                             <h4><a href="https://harrisonnganga.github.io/Portfolio/">Portfolio</a></h4>
+                            <p>Previous portfolio</p>
                         </div>
                     </div>
                 </div>

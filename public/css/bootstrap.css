@@ -176,14 +176,14 @@ sup {
 }
 
 a {
-    color: #fff;
-    text-decoration: none;
+    color: #007BFF;
+    text-decoration: underline;
     background-color: transparent;
     -webkit-text-decoration-skip: objects
 }
 
 a:hover {
-    color: #73fbaf;
+    color: #223d2e;
     text-decoration: underline
 }
 
@@ -4195,6 +4195,7 @@ input[type=submit].btn-block {
     justify-content: space-between
 }
 
+
 .navbar-brand {
     display: inline-block;
     padding-top: .3125rem;
@@ -4202,7 +4203,7 @@ input[type=submit].btn-block {
     margin-right: 1rem;
     font-size: 1.25rem;
     line-height: inherit;
-    white-space: nowrap
+    white-space: nowrap;
 }
 
 .navbar-brand:focus,
@@ -4217,7 +4218,10 @@ input[type=submit].btn-block {
     flex-direction: column;
     padding-left: 0;
     margin-bottom: 0;
-    list-style: none
+    list-style: none;
+    font-family: mustardo;
+
+
 }
 
 .navbar-nav .nav-link {
